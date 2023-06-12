@@ -8,7 +8,7 @@
 <br>
 
 <div style="display:float" align="center">
-    <img src="https://img.shields.io/badge/Java-7F52FF?logo=java&logoColor=white&style=bold"/>
+    <img src="https://img.shields.io/badge/Java-JDK%2017-F80000?logo=oracle&logoColor=white&style=bold"/>
 </div>
 
 <br>
